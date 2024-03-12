@@ -1,0 +1,31 @@
+Customer_ID,Product_Name,Product_Category,Transaction_Amount,Customer_Segment,Buying_Frequency
+1,Apples,Fruits,10.00,Regular,High
+2,Bread,Bakery,5.50,Regular,Medium
+3,Milk,Dairy,3.20,Regular,Low
+4,Cheese,Dairy,8.75,Regular,Medium
+5,Eggs,Dairy,4.50,Regular,Medium
+6,Chicken,Meat,12.00,Regular,High
+7,Toothpaste,Personal Care,2.75,Regular,Low
+8,Shampoo,Personal Care,6.00,Regular,Medium
+9,Apples,Fruits,9.80,Regular,High
+10,Yogurt,Dairy,4.00,Regular,Low
+11,Bread,Bakery,5.25,Regular,Medium
+12,Orange Juice,Beverages,3.50,Regular,Low
+13,Tea,Beverages,2.00,Regular,Low
+14,Coffee,Beverages,4.75,Regular,Medium
+15,Potatoes,Vegetables,6.50,Regular,Medium
+16,Onions,Vegetables,2.30,Regular,Low
+17,Tomatoes,Vegetables,4.00,Regular,Medium
+18,Carrots,Vegetables,3.75,Regular,Low
+19,Cheese,Dairy,8.50,Regular,Medium
+20,Butter,Dairy,5.00,Regular,Medium
+21,Ground Beef,Meat,9.25,Regular,High
+22,Pork Chops,Meat,11.50,Regular,High
+23,Shampoo,Personal Care,5.75,Regular,Medium
+24,Toothpaste,Personal Care,3.00,Regular,Low
+25,Cereal,Breakfast,4.20,Regular,Medium
+26,Apples,Fruits,9.50,Regular,High
+27,Bananas,Fruits,3.80,Regular,Low
+28,Bread,Bakery,4.75,Regular,Medium
+29,Salmon,Seafood,15.00,Regular,High
+30,Shrimp,Seafood,12.50,Regular,High
